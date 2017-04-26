@@ -1,6 +1,6 @@
 # npmdoc-likely
 
-#### api documentation for  [likely (v0.2.0)](https://github.com/sbyrnes/likely.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-likely.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-likely) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-likely.svg)](https://travis-ci.org/npmdoc/node-npmdoc-likely)
+#### basic api documentation for  [likely (v0.2.0)](https://github.com/sbyrnes/likely.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-likely.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-likely) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-likely.svg)](https://travis-ci.org/npmdoc/node-npmdoc-likely)
 
 #### Recommendation engine for Node.js applications.
 
@@ -62,7 +62,8 @@
         "url": "git+https://github.com/sbyrnes/likely.js.git"
     },
     "scripts": {},
-    "version": "0.2.0"
+    "version": "0.2.0",
+    "bin": {}
 }
 ```
 
